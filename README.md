@@ -16,3 +16,4 @@ A repository to maintain all of my answers to leetcode questions.
 | 17 | Letter Combinations of a Phone Number | ![#EF6C00](https://placehold.it/15/EF6C00/000000?text=+) Medium|
 | 21 | Merge Two Sorted Lists | ![#43AA47](https://placehold.it/15/43AA47/000000?text=+) Easy|
 | 24 | Swap Nodes in Pairs | ![#EF6C00](https://placehold.it/15/EF6C00/000000?text=+) Medium|
+| 27 | Remove Element | ![#43AA47](https://placehold.it/15/43AA47/000000?text=+) Easy|
